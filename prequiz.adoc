@@ -23,68 +23,75 @@ git push -u --all origin
 
 What is free software?
 
-
+Software that the user does not have to pay for. No license fees, no upfront costs, and no subscriptions.
 
 What is open source software?
 
-
+Open source software is software that has made the source code open and feely available to the public. 
 
 What's the difference?
 
-
+Free software doesn't have to disclose the source code of the software.
 
 What does copyleft mean?
 
-
+Copyleft is the opposite of copyright. There is no copyrighting copylefted software.
 
 What does permissive mean?
 
-
+The license is permissive if anything it does expressly prevent is permitted.
 
 What is a license? What's the difference among them?
 
-
+A license lays out the "Go's" and "No-Go's" of the software. It will expressly say what is permitted and what isn't. Some licenses must be used for all derrivatives of that software, some may not. Some licenses are more limiting than others as well. They are all written in legalese. 
 
 When did open source software start?
 
-
+In the before times. Before the internet, before piracy, and before Startups.
 
 What were some major accomplishments in free / open source software?
 
-
+The Android OS is always trumpeted as the altar of Open Source programming, since it is a mobile OS that is open source. However it is just a Google marketing scheme.
+Linux has many open source distros, and it is gaining popularity. 
 
 Who were the key players in free / open source software?
 
-
+Linus Torvald
+Dennis Richie
+Tux
 
 How has free / open source software development changed over the decades?
 
-
+Open Source is gaining popularity and it is more trusted than closed source software.
+Like Wikipedia, many people editing one product ends with more reliability, not less.
+Wow those sentences matched up really, really well. 
 
 Why do folks write open source software?
 
-
+For the good of humanity.
 
 Who produces open source software?
 
-
+Hackers.
 
 Who pays for it?
 
-
+You pay for open source software through donations and bug reports.
 
 Who profits from it?
 
-
+Hackers.
 
 Who is in control of your computer?
 
-
+Not me. The government, software companies, the NSa, Edward Snowden.
 
 What do we give up when we cede control to others? What do we gain?
 
-
+We give up freedom in return for security. 
+Protection over Freedom.
+Idiots.
 
 Is it okay for others to decide what you can do with your computer? If so, when?
 
-
+Not even slightly. It should always be that the software developer tries to incentivise upgrading and updating, but they should never take it away from the user.
